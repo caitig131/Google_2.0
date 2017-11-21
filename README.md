@@ -1,1 +1,3 @@
 # Google_2.0
+My project will be an app where when you ask it a question, it will tell you the answer. No matter the question, the app will be able to tell you the answer. You could ask it why is the sky blue and it would be able to tell you the answer. The app will have to be able to know everything in the universe and will never not know the answer. 
+When you open the app it will ask you what you want to know. You enter the question and you have to wait a couple of seconds. Then it will give you your answer and it will ask you if you are happy with the answer. If you are not then it will ask you why.  It will then explain the answer it has given you and give you some possible other answers if there are any. 
