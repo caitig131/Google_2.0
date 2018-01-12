@@ -21,5 +21,18 @@ elif question == "Who is the King of France?":
     print("Taneil Knowles")
 elif question == "Where is Tupac?":
     print("Havana,Cuba.")
-else:
+elif question == "What does water taste like?"
+    print("it tastes like water")
+elif question == "How far away are we from the sun?"
+    print("very very far")
+elif question == "Where do we go when we die?"
+    print("I guess you just have to die to figure it out")
+elif question == "Where is the nearest McDonalds?"
+    print("make a left then another left then another left then another left and you'll find it")
+elif question == "What is the best song"
+    print("All Star, by Smash Mouth")
+elif question == "What do Aussies ride to school?"
+    print("kangoroos")
+elif question == "
+else:  
     print("I do not have the answer. You have broken me. I am defeated.")
