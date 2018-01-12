@@ -33,6 +33,5 @@ elif question == "What is the best song"
     print("All Star, by Smash Mouth")
 elif question == "What do Aussies ride to school?"
     print("kangoroos")
-elif question == "
 else:  
     print("I do not have the answer. You have broken me. I am defeated.")
