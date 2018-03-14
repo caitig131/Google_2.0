@@ -40,7 +40,7 @@ while running:
             print("I guess you just have to die to figure it out")
         elif question == "Where is the nearest McDonalds?":
             print("make a left then another left then another left then another left and you'll find it")
-        elif question == "What is the best song":
+        elif question == "What is the best song?":
             print("All Star, by Smash Mouth")
         elif question == "What do Aussies ride to school?":
             print("kangoroos")
@@ -49,4 +49,3 @@ while running:
 
         if event.type == pygame.QUIT:
             running = False
-
