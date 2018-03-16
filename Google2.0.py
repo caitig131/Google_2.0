@@ -1,3 +1,4 @@
+#When  making your question, the beginning of the sentence must be a capital letter with a question mark on the end
 import pygame
 background_color = (255, 255, 255)
 (width, height) = (300, 200)
@@ -18,8 +19,7 @@ while running:
         elif question == "What is the best movie?":
             print("The Bee Movie")
         elif question == "Who put us on this Earth?":
-            print(
-                "The great beings of the planet Gab-Odon. They were bored one day and decided on creating life. We are a game that they made.")
+            print("The great beings of the planet Gab-Odon. They were bored one day and decided on creating life. We are a game that they made.")
         elif question == "What is the best food?":
             print("French fries hands down")
         elif question == "Who are you?":
@@ -44,6 +44,8 @@ while running:
             print("All Star, by Smash Mouth")
         elif question == "What do Aussies ride to school?":
             print("kangoroos")
+        elif question == "What is the worst way to die?":
+            print("alone with no one there to love you and to care that you are gone")
         else:
             print("I do not have the answer. You have broken me. I am defeated.")
 
