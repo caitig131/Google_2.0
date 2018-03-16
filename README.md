@@ -21,5 +21,5 @@ In the next round I will like to be able to come up with the most random questio
 
 Phase 2 Next Steps
 
-What I want to do is to be able to ask a question in a seperate window, and then to get the answer in the window. There will be a search engine, and then a button to press when you enter your question. I will be using pygame to create the seperate window and then a text input in the window. 
+What I want to do is to be able to ask a question in a window, and then to get the answer in the window. There will be a text field, and then a button to press when you enter your question. I will be using pygame to create the window and then a text input in the window. When the program does not know the nswer, it will ask for what the asker thinks is the answer and save that answer for the next time the question is asked. 
 
