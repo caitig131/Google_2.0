@@ -18,3 +18,7 @@ My project went very well. I was able to accomplish everything I wanted to accom
 Next Steps
 
 In the next round I will like to be able to come up with the most random questions someone would ask so my program is accurate and perfect. I need to be able to come up with questions that no one would really think to ask. My answers will need to be a bit more sensitive to those who might have a different belief than myself.
+
+Phase 2 Next Steps
+What I want to do is to be able to ask a question in a seperate window, and then to get the answer in the window. There will be a search engine, and then a button to press when you enter your question. I will be using pygame to create the seperate window and then a text input in the window. 
+
