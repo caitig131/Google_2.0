@@ -1,1 +1,1 @@
-[("Why is the sky blue?","Because"),("What is the meaning of life?","To be loved and to love others")]
+[("Why is the sky blue?","Because"),("What is the meaning of life?","To be loved and to love others"),("What is the funniest joke?","Your face")]
