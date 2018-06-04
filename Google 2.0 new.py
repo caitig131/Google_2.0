@@ -10,7 +10,7 @@ screen = pygame.display.set_mode((1000, 200))
 clock = pygame.time.Clock()
 
 class Quest():
-    question = "ttt"
+    question = "What is your question?"
     qalist = [("Why is the sky blue?","Because"),("What is the meaning of life?","To be loved and to love others")]
     def __init__(self, screen):
         pass
